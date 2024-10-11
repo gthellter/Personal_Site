@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Full Stack Engineer II",
+    "company": "Humana",
+    "description": ["Applications for internal use", "Tech Stack: Node.js, Express.js, React.js, MongoDB, Jest, Azure"],
+    "list": [
+      "Quickly learned a large codebase in order to develop new <strong>RESTful</strong> endpoints as well as improve existing routes.",
+      "Connected to internal and external APIs using <strong>OAuth 2.0</strong> as well as transitioning team from depreciated Auth technologies.",
+      "Uses <strong>LaunchDarkly</strong> to separate code releases from feature releases. This enables <strong>safer</strong> deployment with increased release agility and decreased risk.",
+      "Became top developer within a year, to be the <strong>development contact</strong> for the team while <strong>lead developer</strong> is unavailable."
+    ],
+    "images": [
+      {"path":"LD-icon.png", "size": [100, 100]},
+      {"path":"restAPIIcon.png", "size": [75, 50]}
+    ]
+  },
+  {
+    "title": "Full Stack Engineer",
+    "company": "Personal Project",
+    "description": ["Workout log built using React Native"],
+    "list": [
+      "Developed attractive Mobile front-end using <strong>React Native</strong>.",
+      "Implemented State management using <strong>Zustand</strong>, to make for a quick and efficient front-end.",
+      "Using <strong>RESTful techniques</strong>, integrated Data from an external API as well as made calls to <strong>Node.js</strong> backend",
+      "Integrated <strong>Node.js</strong> Backend to manage user-data and enable <strong>data persistence</strong> through a <strong>MongoDB Database</strong>"
+    ],
+    "images": [
+      {"path":"reactIcon.svg", "size": [100, 100]},
+      {"path":"nodeIcon.svg", "size": [75, 50]}
+    ]
+  },
+  {
+    "title": "Back-End Engineer",
+    "company": "Group Personal Project",
+    "description": ["API Router and Database built using speed-oriented architecture"],
+    "list": [
+      "Improved request throughput from 4 requests/sec to <strong>upward</strong> of 400 requests/sec by implementing <strong>NGINX</strong> load balancers to <strong>horizontally scale</strong> server requests to the <strong>AWS EC2</strong> instances.",
+      "Lowered Query execution time from over 200ms down to under <strong>1ms</strong> execution time in <strong>PostgreSQL</strong> by implementing <strong>aggregate queries</strong>, and foreign key indexes.",
+      "Decreased <strong>Stress Testing</strong> cycle length by using <strong>Loader.io</strong> to identify and revise bottlenecks"
+    ],
+    "images": [
+      {"path":"loaderIO.svg", "size": [40, 70]},
+      {"path":"nodeIcon.svg", "size": [75, 50]}
+    ]
+  },
+  {
+    "title": "Front-End Engineer",
+    "company": "Group Personal Project",
+    "description": ["Product-page for Clothing manufacturer, I implemented the Related Items and Your Outfit Carousels"],
+    "list": [
+      "Styled component using <strong>styled-components</strong> to allow for clean modulated code within <strong>React</strong> components",
+      "Allowed user to save products by implementing <strong>local Storage</strong> to enable <strong>data persistence</strong>.",
+      "Integrated <strong>state management</strong> using Zustand to reduce api calls and React component re renders",
+      "Implemented comparison modal using <strong>react-modal</strong> to allow side-by-side rendering of <strong>API data</strong>"
+    ],
+    "images": [
+      {"path":"styledComponents.png", "size": [70, 100]},
+      {"path":"reactIcon.svg", "size": [40, 50]}
+    ]
+  }
+
+]
